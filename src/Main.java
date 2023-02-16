@@ -9,7 +9,7 @@ public class Main {
 
         Student student1 = new Student("Manas","Abdugani uulu",'M',LocalDate.of(2002,01,9),school);
         Student student2 = new Student("Arapbai","Borubai uulu",'M',LocalDate.of(2019,01,9),collage);
-        Student student3 = new Student("Gulzhan","Janybekova",'F',LocalDate.of(2021,01,9),univercity);
+        Student student3 = new Student("Gulzhan ","Janybekova",'F',LocalDate.of(2021,01,9),univercity);
 
         Student[] students = {student1,student2,student3};
         method(students);
