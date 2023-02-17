@@ -5,7 +5,7 @@ public class Student {
     private String surname;
     private char gender;
     private LocalDate dateOfStart;
-    EducationCenter educationCenter;
+    private EducationCenter educationCenter;
 
     public Student(String name, String surname, char gender, LocalDate dateOfStart, EducationCenter educationCenter) {
         this.name = name;

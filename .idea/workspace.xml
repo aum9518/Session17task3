@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d147a82b-4e73-4a8d-8e40-ab0ea12c86ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session17task3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EducationCenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Univercity.java" afterDir="false" />
+    <list default="true" id="d147a82b-4e73-4a8d-8e40-ab0ea12c86ef" name="Changes" comment="add decided task3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +60,25 @@
       <option name="presentableId" value="Default" />
       <updated>1676531493215</updated>
     </task>
+    <task id="LOCAL-00001" summary="add decided task3">
+      <created>1676545017153</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676545017154</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add decided task3">
+      <created>1676545132689</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676545132690</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add decided task3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add decided task3" />
   </component>
 </project>
